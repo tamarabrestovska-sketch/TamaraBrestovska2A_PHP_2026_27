@@ -7,5 +7,9 @@
 </head>
 <body>
     <p>Tamara</p>
+    <?php
+    echo "Hello World!";
+    print('stefan');
+    ?>
 </body>
 </html>
